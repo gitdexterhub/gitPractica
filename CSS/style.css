@@ -1,5 +1,11 @@
-h1, p{
-    color: blue;
-    font-size: 20px;
+h1{
+    color: red;
+    font-size: 60px;
+    text-align: center;
+}
+
+p{
+    color: black;
+    font-size: 23px;
     text-align: center;
 }
