@@ -1,11 +1,17 @@
-h1{
-    color: red;
-    font-size: 60px;
-    text-align: center;
+body{
+    color: #333;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
 }
-
-p{
-    color: black;
-    font-size: 23px;
+.container{
+    width: 70%;
+    padding: 1em;
     text-align: center;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+.container h1{
+    font-size: 20px;
 }
