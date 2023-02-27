@@ -48,3 +48,11 @@ body{
 .post{
     background-color: white;
 }
+.footer{
+    background-color: grey;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(140, 255, 0);
+}
