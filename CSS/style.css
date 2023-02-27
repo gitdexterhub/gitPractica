@@ -30,3 +30,11 @@ body{
 .container h1{
     font-size: 20px;
 }
+.footer{
+    background-color: grey;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(140, 255, 0);
+}
