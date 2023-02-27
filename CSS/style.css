@@ -4,14 +4,29 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: center;
+    background-color: black;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .cabecera {
-    background: #33A;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0, 0.5);
-    color: white;
+    color: rgb(0, 0, 0);
     margin: 0;
     font-weight: bold;
     padding: 0.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 19px;
+    background-color: blue;
+}
+
+.logo{
+    width: 40px;
+    margin: 0 30px;
 }
 
 .tagline{
@@ -29,4 +44,7 @@ body{
 }
 .container h1{
     font-size: 20px;
+}
+.post{
+    background-color: white;
 }
