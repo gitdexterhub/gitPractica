@@ -3,9 +3,8 @@ por este medio aprendi a usar Git y Github, hoy puedo decir que he aprendido muc
 
 >Es de mi agrado poder decir que gracias a este curso y muchos otros he logrado tambien abrir mi mente a conocer el mundo de la tecnologia cosa que percibia casi impoisble de lograr.
 
-Para lograr todo esto ingrese al curso de  [Git y Github][1]
-[1]: http://https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "Git y Github"
-# Ademas en este curso aprendi lo siguiente 
+Para lograr todo esto ingrese al curso de [Git y Github][https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/]
+[https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/]: https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/
 
 * Manejo de versiones 
 * Comandos de Git
