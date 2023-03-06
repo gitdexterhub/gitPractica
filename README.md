@@ -9,3 +9,5 @@ Para lograr todo esto ingrese al curso de [Git y Github](https://platzi.com/curs
 * Comandos de Git
 * Hacer uso de llaves y pull request 
 * Muchas cosas mas
+* Creado con amor
+
