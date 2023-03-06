@@ -10,4 +10,6 @@ Para lograr todo esto ingrese al curso de [Git y Github](https://platzi.com/curs
 * Hacer uso de llaves y pull request 
 * Muchas cosas mas
 * Creado con amor
+* incluyendo uso en windows, linux y mac
+* Disponible para todas las edades
 
